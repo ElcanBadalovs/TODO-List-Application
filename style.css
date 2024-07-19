@@ -1,0 +1,19 @@
+ol::-webkit-scrollbar {
+    width: 5px;
+}
+ 
+/* Track */
+ol::-webkit-scrollbar-track {
+    margin-left: 10px;
+    background: #e8e8e8;
+    border-radius: 5px;
+}
+ 
+/* Handle */
+ol::-webkit-scrollbar-thumb {
+    margin-left: 10px;
+    cursor: pointer;
+    background: #0284C7FF;
+    border-radius: 5px;
+}
+ 
